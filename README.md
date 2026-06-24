@@ -1,7 +1,11 @@
 # Gerenciador de Estados de Pedidos (E-commerce) — Padrão State
 
-Este projeto é uma implementação prática desenvolvida para a avaliação de Padrões de Projeto GoF da disciplina de Tópicos Especiais em Sistemas de Informação. O objetivo é demonstrar a aplicação do padrão de projeto comportamental State de forma limpa e compreensível, utilizando um cenário clássico: o ciclo de vida e o gerenciamento de estados de um pedido de e-commerce.
+**Disciplina:** Tópicos Especiais em Sistemas de Informação
 ---
+
+## Sobre o Projeto
+
+Este projeto é uma implementação prática desenvolvida para a avaliação de Padrões de Projeto GoF da disciplina de Tópicos Especiais em Sistemas de Informação. O objetivo é demonstrar a aplicação do padrão de projeto comportamental State de forma limpa e compreensível, utilizando um cenário clássico: o ciclo de vida e o gerenciamento de estados de um pedido de e-commerce.
 
 ## Objetivo do Projeto
 
